@@ -7,7 +7,7 @@ have been proposed in the geophysical FWI literature — from classical
 least-squares to optimal-transport / adaptive matching-filter / envelope /
 phase variants — and exposes every one of them as a `torch.nn.Module` so
 they drop directly into any PyTorch-based FWI workflow (e.g. the
-[`sweep`](https://github.com/wangs0j/geophyai) propagator).
+[`sweep`](https://github.com/DeepWave-KAUST/sweep) propagator).
 
 ## Why a dedicated package?
 

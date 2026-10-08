@@ -1,7 +1,7 @@
 # sweep-loss
 
 A PyTorch library of misfit (loss) functions for **Full Waveform Inversion (FWI)**.
-Designed as a plugin for the [`sweep`](https://github.com/wangs0j/geophyai) FWI
+Designed as a plugin for the [`sweep`](https://github.com/DeepWave-KAUST/sweep) FWI
 toolkit — but works in any PyTorch-based FWI / inversion workflow because the
 losses are plain `torch.nn.Module` objects.
 
